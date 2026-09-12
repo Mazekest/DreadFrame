@@ -1,0 +1,62 @@
+DreadFrame
+Copyright (c) 2026 Mazekest. All Rights Reserved.
+
+================================================================
+ENGLISH
+================================================================
+
+This shaderpack is All Rights Reserved. The permissions and
+restrictions below override the default terms where stated.
+
+YOU MAY:
+  - Use this shaderpack for personal play, freely.
+  - Modify it for your own personal use.
+  - Use it in videos, streams, screenshots, and other content,
+    including monetized content. Credit is appreciated but not
+    required.
+  - Include a link to the official download page anywhere.
+
+YOU MAY NOT:
+  - Redistribute this shaderpack, or any part of it, without
+    permission. This includes reuploading it to other sites and
+    bundling it into downloadable packs.
+  - Publish a modified version without prior permission.
+  - Claim this shaderpack or its code as your own work, or
+    republish it under a different name.
+  - Place the download behind ad-gates, link shorteners, paywalls,
+    or any other monetized redirect.
+
+NOTE ON MODPACKS:
+  Files uploaded to Modrinth may be included in Modrinth modpacks
+  under Modrinth's own terms, independently of this license.
+
+If you want to do something not covered here, just ask.
+
+================================================================
+한국어
+================================================================
+
+이 쉐이더팩의 모든 권리는 저작자에게 있습니다.
+아래 항목이 기본 조건에 우선합니다.
+
+허용:
+  - 개인적인 플레이에 자유롭게 사용
+  - 개인적으로 쓰기 위한 수정
+  - 영상, 방송, 스크린샷 등 콘텐츠에 사용 (수익 창출 포함).
+    출처 표기는 감사하지만 의무는 아닙니다.
+  - 공식 다운로드 페이지 링크 공유
+
+금지:
+  - 허락 없는 재배포. 다른 사이트에 재업로드하거나
+    다운로드 가능한 팩에 포함시키는 것을 포함합니다.
+  - 허락 없는 개조판 공개
+  - 이 팩이나 코드를 본인의 작업물이라 주장하거나
+    이름을 바꿔 재공개하는 것
+  - 광고 페이지, 단축 링크, 유료 결제 등을 거치도록
+    다운로드를 가로막는 것
+
+모드팩 관련:
+  Modrinth에 업로드된 파일은 이 라이선스와 별개로
+  Modrinth 자체 약관에 따라 Modrinth 모드팩에 포함될 수 있습니다.
+
+여기 없는 용도가 필요하면 문의해 주세요.
