@@ -1,0 +1,69 @@
+screen.SCR_CORE=공포 / 색보정
+screen.SCR_BRUSH=마른 붓 / 잉크
+screen.SCR_LIGHT=조명 & 시야거리
+screen.SCR_FX=필름 & 렌즈
+screen.SCR_DEBUG=디버그
+
+profile.VANILLA_SAFE=바닐라에 가깝게
+profile.PLAYABLE=플레이 가능
+profile.NIGHTMARE=악몽
+profile.SCREENSHOT=스크린샷 (레드/블랙)
+
+option.DREAD=공포 강도
+option.DREAD.comment=레드/블랙 룩으로 섞는 비율. 0=바닐라 색, 1=참고 이미지 그대로.
+option.HARD_CUT=하드 임계값
+option.HARD_CUT.comment=그라데이션을 순수 빨강/검정으로 뭉갬. 스샷용. 플레이는 지옥.
+option.RED_HUE=적색 순도
+option.RED_HUE.comment=레드 램프에 녹색/파랑을 얼마나 남길지.
+option.POSTERIZE=포스터라이즈
+option.POSTERIZE.comment=밝기를 단계로 양자화.
+option.OUTLINE=뎁스 아웃라인
+option.OUTLINE.comment=깊이 버퍼 기반 빨간 외곽선. 화면이 새까매져도 지형을 읽게 해주는 핵심.
+option.OUTLINE_WIDTH=아웃라인 두께
+option.VISIBILITY=시인성
+option.VISIBILITY.comment=전체 광량 배율. 발밑도 안 보이면 이걸 올리세요.
+option.DARK_RANGE=어둠 거리
+option.DARK_RANGE.comment=몇 블록 앞부터 검게 사라지는지.
+option.NIGHT_BOOST=밤 공포 가중
+option.NIGHT_BOOST.comment=일몰 후 공포 강도 추가.
+option.TORCH_WARMTH=횃불 핏빛
+option.TORCH_WARMTH.comment=블록광을 주황에서 잿빛 붉은색으로.
+option.SKY_DEATH=하늘 죽이기
+option.SKY_DEATH.comment=하늘과 하늘광이 얼마나 죽은 색인지.
+option.AMBIENT_FLOOR=최소 환경광
+option.AMBIENT_FLOOR.comment=동굴에서도 길을 찾을 수 있는 최소 광량. 안전장치.
+option.SUN_MOON_DIM=해/달 밝기 감쇠
+option.PULSE=심장박동
+option.PULSE.comment=맥동하는 비네팅과 붉은 밀림.
+option.GRAIN=필름 그레인
+option.CHROMA=색수차
+option.VIGNETTE=비네팅
+option.JITTER=렌즈 흔들림
+option.SCANLINE=주사선
+option.DEBUG_VIEW=디버그 뷰
+option.DEBUG_VIEW.comment=0 끔 / 1 알베도 / 2 라이트맵 / 3 선형깊이 / 4 엣지마스크 / 5 머티리얼 플래그
+
+profile.WOODCUT=목판화 (마른 붓)
+
+option.DRYBRUSH=마른 붓 강도
+option.DRYBRUSH.comment=거칠기 마스터. 빨강/검정 경계를 릿지 노이즈로 갉아먹어 매끈한 그라데이션을 없앰.
+option.BRUSH_SCALE=붓 크기
+option.BRUSH_SCALE.comment=붓털 밀도. 낮으면 넓은 페인트 붓, 높으면 가는 해칭.
+option.BRUSH_STREAK=붓질 방향성
+option.BRUSH_STREAK.comment=0 = 얼룩덜룩 랜덤. 1 = 길게 한 방향으로 그은 붓자국.
+option.BRUSH_OCTAVES=붓 디테일
+option.BRUSH_OCTAVES.comment=노이즈 옥타브. 성능 손잡이 - 프레임 떨어지면 2로 내리세요.
+option.INK_BLEED=잉크 번짐
+option.INK_BLEED.comment=0.5 미만이면 빨강이 검정을 먹고, 초과면 검정이 빨강을 먹음.
+option.BRISTLE_SKIP=붓털 튐
+option.BRISTLE_SKIP.comment=마른 붓이 스치고 지나간 자리처럼, 빨강 면 안에 검은 실선이 뚫림.
+option.SPECKLE=잉크 튀김
+option.SPECKLE.comment=밝은 부분 옆 검정 영역에 흩뿌려지는 붉은 점들.
+option.WORLD_LOCK=텍스처 고정
+option.WORLD_LOCK.comment=0 = 화면에 인쇄된 잉크(실크스크린). 1 = 블록에 붙은 물감, 걸으면 같이 움직임.
+option.EDGE_ROUGH=선 거칠기
+option.EDGE_ROUGH.comment=외곽선을 끊어 잉크 마른 펜으로 그은 것처럼 만듦.
+option.GRAIN_SIZE=그레인 크기
+option.GRAIN_SIZE.comment=반점 하나당 픽셀 수. 1 = TV 노이즈, 3 이상 = 굵은 인쇄 그레인.
+option.TORN_EDGE=찢어진 프레임
+option.TORN_EDGE.comment=비네팅이 부드럽게 사라지지 않고 너덜너덜 뜯겨 나감.

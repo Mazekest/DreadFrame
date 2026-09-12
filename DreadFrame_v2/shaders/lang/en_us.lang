@@ -1,0 +1,69 @@
+screen.SCR_CORE=Dread / Grading
+screen.SCR_BRUSH=Dry Brush / Ink
+screen.SCR_LIGHT=Light & Distance
+screen.SCR_FX=Film & Lens
+screen.SCR_DEBUG=Debug
+
+profile.VANILLA_SAFE=Vanilla-ish
+profile.PLAYABLE=Playable
+profile.NIGHTMARE=Nightmare
+profile.SCREENSHOT=Screenshot (red/black)
+
+option.DREAD=Dread
+option.DREAD.comment=Blend toward the red/black look. 0 = vanilla colors, 1 = full reference image.
+option.HARD_CUT=Hard Threshold
+option.HARD_CUT.comment=Collapse the gradient into pure red vs pure black. Great screenshots, terrible gameplay.
+option.RED_HUE=Red Purity
+option.RED_HUE.comment=How much green/blue survives in the red ramp.
+option.POSTERIZE=Posterize
+option.POSTERIZE.comment=Quantize brightness into bands.
+option.OUTLINE=Depth Outline
+option.OUTLINE.comment=Red edge lines from the depth buffer. This is what keeps geometry readable when everything else is black.
+option.OUTLINE_WIDTH=Outline Width
+option.VISIBILITY=Visibility
+option.VISIBILITY.comment=Global light multiplier. Raise this if you cannot see your own feet.
+option.DARK_RANGE=Darkness Range
+option.DARK_RANGE.comment=Blocks until the world fades to black.
+option.NIGHT_BOOST=Night Dread
+option.NIGHT_BOOST.comment=Extra dread after sunset.
+option.TORCH_WARMTH=Torch Blood
+option.TORCH_WARMTH.comment=Pushes blocklight from warm orange toward ember red.
+option.SKY_DEATH=Sky Death
+option.SKY_DEATH.comment=How dead the sky and skylight look.
+option.AMBIENT_FLOOR=Ambient Floor
+option.AMBIENT_FLOOR.comment=Minimum light so caves are navigable. Safety net.
+option.SUN_MOON_DIM=Sun/Moon Dim
+option.PULSE=Heartbeat
+option.PULSE.comment=Pulsing vignette and red push.
+option.GRAIN=Film Grain
+option.CHROMA=Chromatic Aberration
+option.VIGNETTE=Vignette
+option.JITTER=Lens Jitter
+option.SCANLINE=Scanlines
+option.DEBUG_VIEW=Debug View
+option.DEBUG_VIEW.comment=0 off / 1 albedo / 2 lightmap / 3 linear depth / 4 edge mask / 5 material flags
+
+profile.WOODCUT=Woodcut (dry brush)
+
+option.DRYBRUSH=Dry Brush
+option.DRYBRUSH.comment=Master roughness. Chews the red/black border with ridged ink noise instead of leaving a clean gradient.
+option.BRUSH_SCALE=Brush Scale
+option.BRUSH_SCALE.comment=Bristle frequency. Low = wide house-painter strokes, high = fine hatching.
+option.BRUSH_STREAK=Stroke Direction
+option.BRUSH_STREAK.comment=0 = blotchy/random. 1 = long directional strokes.
+option.BRUSH_OCTAVES=Brush Detail
+option.BRUSH_OCTAVES.comment=Noise octaves. This is the perf knob - drop to 2 if you lose frames.
+option.INK_BLEED=Ink Bleed
+option.INK_BLEED.comment=Below 0.5 red eats into black, above 0.5 black eats into red.
+option.BRISTLE_SKIP=Bristle Skip
+option.BRISTLE_SKIP.comment=Black hairlines punched through solid red, where the dry brush missed.
+option.SPECKLE=Ink Speckle
+option.SPECKLE.comment=Loose red dots thrown into the black beside lit areas.
+option.WORLD_LOCK=Texture Lock
+option.WORLD_LOCK.comment=0 = ink printed on the screen (silkscreen). 1 = paint stuck to the blocks, slides as you walk.
+option.EDGE_ROUGH=Line Roughness
+option.EDGE_ROUGH.comment=Breaks the depth outlines up so they look drawn with a dying pen.
+option.GRAIN_SIZE=Grain Size
+option.GRAIN_SIZE.comment=Pixels per fleck. 1 = TV static, 3+ = chunky print grain.
+option.TORN_EDGE=Torn Frame
+option.TORN_EDGE.comment=The vignette flakes away in ragged chunks instead of fading smoothly.
